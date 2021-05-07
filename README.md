@@ -112,11 +112,11 @@ Animations for *Ichor* must not make use of any special functions, and should on
 
 It is sensible to also heed the following guidelines:
 
-	1. Make sure the triggers happen at the correct time, no matter what. This will ensure demo compatibility. Any issues with this should be brought up on the issues tracker.
+1. Make sure the triggers happen at the correct time, no matter what. This will ensure demo compatibility. Any issues with this should be brought up on the issues tracker.
 	
-	2. You may base your animations off the originals, but do NOT copy them exactly unless absolutely necessary.
+2. You may base your animations off the originals, but do NOT copy them exactly unless absolutely necessary.
 	
-	3. Do not use an excessive amount of tiles for each animation.
+3. Do not use an excessive amount of tiles for each animation.
 
 ## Submitting your work
 
