@@ -121,12 +121,12 @@ It is sensible to also heed the following guidelines:
 ## Submitting your work
 
 The most common, and a fairly simple method, to submit your work is by
-posting it on the [Ichor Discord] (no need for one, yet)
+posting it on the Ichor Discord (no need for one, yet)
 
 This allows a quick cycle or development and feedback.
 
-An alternative to using the forum, is to post your submission on the
-[issue tracker](https://github.com/MissLav/Ichor/issues), which
+An alternative to using the Discord, is to post your submission on the
+[issue tracker](https://github.com/ObsidianPlague/Ichor/issues), which
 may also be peer-reviewed and provide a feedback cycle.
 
 Unfortunately, the Ichor project cannot provide hosting space in
