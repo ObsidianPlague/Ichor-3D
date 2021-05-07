@@ -1,2 +1,2 @@
-# Ichor-3D
-Free content replacement for build engine game Blood
+This here is the utilities used for *Ichor* compiling.
+(do NOT merge any changes from this to the main branch.)
