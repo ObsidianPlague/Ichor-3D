@@ -121,11 +121,7 @@ It is sensible to also heed the following guidelines:
 ## Submitting your work
 
 The most common, and a fairly simple method, to submit your work is by
-<<<<<<< HEAD
 posting it on [`#ichor-3d` in the LibreQuake discord.](https://discord.gg/H9gwFTQ)
-=======
-posting it on the Ichor Discord (no need for one, yet)
->>>>>>> 5ca9ea79d35c74e15568cec080c05bb83a32f58b
 
 This allows a quick cycle or development and feedback.
 
