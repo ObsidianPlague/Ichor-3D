@@ -121,12 +121,16 @@ It is sensible to also heed the following guidelines:
 ## Submitting your work
 
 The most common, and a fairly simple method, to submit your work is by
+<<<<<<< HEAD
 posting it on [`#ichor-3d` in the LibreQuake discord.](https://discord.gg/H9gwFTQ)
+=======
+posting it on the Ichor Discord (no need for one, yet)
+>>>>>>> 5ca9ea79d35c74e15568cec080c05bb83a32f58b
 
 This allows a quick cycle or development and feedback.
 
-An alternative to using the forum, is to post your submission on the
-[issue tracker](https://github.com/MissLav/Ichor/issues), which
+An alternative to using the Discord, is to post your submission on the
+[issue tracker](https://github.com/ObsidianPlague/Ichor/issues), which
 may also be peer-reviewed and provide a feedback cycle.
 
 Unfortunately, the Ichor project cannot provide hosting space in
