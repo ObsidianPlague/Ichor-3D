@@ -27,7 +27,6 @@ IF %M%==4 GOTO SOUNDS
 IF %M%==5 GOTO GUI
 IF %M%==6 GOTO GOODBYE
 :ALL
-set NAME=cdmusic
 barfc BLOOD.RFF -a @BLOOD.RFS
 barfc SOUNDS.RFF -a @SOUNDS.RFS
 barfc GUI.RFF -a @GUI.RFS
